@@ -1,0 +1,12 @@
+# Visual Studio 暫存與編譯產物，不需上傳
+.vs/
+Debug/
+Release/
+x64/
+Backup/
+*.user
+*.ncb
+*.opt
+*.plg
+*.suo
+UpgradeLog.htm
